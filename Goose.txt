@@ -1,0 +1,5 @@
+public class Goose extends Pet {
+
+    // FIXME your code here
+
+}
